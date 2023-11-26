@@ -1,6 +1,6 @@
 This is the implementation of infinite nested comment in ReactJs.
 In the project directory, you can run:
-### 'npm install'
+### `npm install`
 
 ### `npm start`
 
