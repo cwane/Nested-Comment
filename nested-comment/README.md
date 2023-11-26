@@ -1,4 +1,4 @@
-This is the implementation of infinite nestest comment in ReactJs.
+This is the implementation of infinite nested comment in ReactJs.
 In the project directory, you can run:
 ### 'npm install'
 
